@@ -51,9 +51,9 @@ a|
 
 | 5
 a|
-* `&gt;`: Greater than or equal to.
+* `&gt;=`: Greater than or equal to.
 * `=`: Equal to.
-* `&lt;`: Less than or equal to.
+* `&lt;=`: Less than or equal to.
 * `<`: Less than.
 * `>`: Greater than.
 * `is`: Compare type, for example, used in
